@@ -1,0 +1,28 @@
+09:02:16.014 [main] INFO  Academy.HomePage - login link is clicked
+09:02:16.222 [main] INFO  Academy.HomePage - username is typed in email id field
+09:02:16.394 [main] INFO  Academy.HomePage - password is typed in password field
+09:02:16.478 [main] INFO  Academy.HomePage - Login button is clicked
+09:02:19.760 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+09:02:27.153 [main] INFO  Academy.HomePage - login link is clicked
+09:02:27.248 [main] INFO  Academy.HomePage - username is typed in email id field
+09:02:27.475 [main] INFO  Academy.HomePage - password is typed in password field
+09:02:27.548 [main] INFO  Academy.HomePage - Login button is clicked
+09:02:30.642 [main] INFO  Academy.ValidateText - URL is hit
+09:02:30.643 [main] INFO  Academy.ValidateText - qaclickhomepage object is created
+09:02:30.688 [main] ERROR Academy.ValidateText - text is not verfied
+09:08:04.801 [main] INFO  Academy.ValidateText - Driver is initialized
+09:08:13.167 [main] INFO  Academy.ValidateText - URL is hit
+09:08:13.178 [main] INFO  Academy.ValidateText - qaclickhomepage object is created
+09:08:13.222 [main] ERROR Academy.ValidateText - text is not verfied
+09:08:17.544 [main] INFO  Academy.HomePage - Driver is initialized
+09:08:23.919 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+09:08:35.221 [main] INFO  Academy.HomePage - login link is clicked
+09:08:35.495 [main] INFO  Academy.HomePage - username is typed in email id field
+09:08:35.577 [main] INFO  Academy.HomePage - password is typed in password field
+09:08:35.646 [main] INFO  Academy.HomePage - Login button is clicked
+09:08:39.068 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+09:08:43.974 [main] INFO  Academy.HomePage - login link is clicked
+09:08:44.064 [main] INFO  Academy.HomePage - username is typed in email id field
+09:08:44.169 [main] INFO  Academy.HomePage - password is typed in password field
+09:08:44.249 [main] INFO  Academy.HomePage - Login button is clicked
+19:59:13.245 [main] INFO  Academy.ValidateText - Driver is initialized

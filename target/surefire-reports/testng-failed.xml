@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Validate Text(failed)">
+    <classes>
+      <class name="Academy.ValidateText">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="pageNavigationTest"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.ValidateText -->
+      <class name="Academy.HomePage">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.HomePage -->
+    </classes>
+  </test> <!-- Validate Text(failed) -->
+</suite> <!-- Failed suite [Suite] -->
