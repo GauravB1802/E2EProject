@@ -1,0 +1,27 @@
+19:59:29.803 [main] INFO  Academy.ValidateText - URL is hit
+19:59:29.903 [main] INFO  Academy.ValidateText - qaclickhomepage object is created
+19:59:29.983 [main] ERROR Academy.ValidateText - text is not verfied
+19:59:36.080 [main] INFO  Academy.HomePage - Driver is initialized
+19:59:45.281 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+20:00:23.872 [main] INFO  Academy.HomePage - login link is clicked
+20:00:24.046 [main] INFO  Academy.HomePage - username is typed in email id field
+20:00:24.171 [main] INFO  Academy.HomePage - password is typed in password field
+20:00:29.490 [main] INFO  Academy.HomePage - Login button is clicked
+20:00:32.849 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+20:00:42.654 [main] INFO  Academy.HomePage - login link is clicked
+20:00:42.779 [main] INFO  Academy.HomePage - username is typed in email id field
+20:00:42.920 [main] INFO  Academy.HomePage - password is typed in password field
+20:00:43.040 [main] INFO  Academy.HomePage - Login button is clicked
+13:42:49.782 [main] INFO  Academy.ValidateText - Driver is initialized
+13:43:02.716 [main] INFO  Academy.ValidateText - URL is hit
+13:43:02.723 [main] INFO  Academy.ValidateText - qaclickhomepage object is created
+13:43:03.785 [main] ERROR Academy.ValidateText - text is not verfied
+13:43:10.190 [main] INFO  Academy.HomePage - Driver is the one who is  initialized
+13:43:19.707 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+13:43:29.433 [main] INFO  Academy.HomePage - login link is clicked
+13:43:29.654 [main] INFO  Academy.HomePage - username is typed in email id field
+13:43:29.768 [main] INFO  Academy.HomePage - password is typed in password field
+13:43:29.861 [main] INFO  Academy.HomePage - Login button is clicked
+13:43:33.335 [main] INFO  Academy.HomePage - qaclickhomepage is clicked
+13:43:39.207 [main] INFO  Academy.HomePage - login link is clicked
+13:43:39.361 [main] INFO  Academy.HomePage - username is typed in email id field

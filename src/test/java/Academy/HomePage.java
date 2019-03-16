@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.poi.util.SystemOutLogger;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
@@ -22,7 +23,12 @@ public class HomePage extends Base {
 		
 		driver=initializeDriver();
 	
-		log.info("Driver is initialized");}
+		log.info("Driver is the one who is  initialized");}
+	
+	 
+
+	
+	
 
 	@Test(dataProvider="getData")
 	
@@ -51,6 +57,8 @@ public class HomePage extends Base {
 		logPage.getGoButton().click();
 		log.info("Login button is clicked");
 	
+		log.info("this line is added");
+		log.info("test case is passed");
 	
 	}
 		
