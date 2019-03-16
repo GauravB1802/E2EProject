@@ -59,6 +59,8 @@ public class HomePage extends Base {
 	
 		log.info("this line is added");
 		log.info("test case is passed");
+		
+		log.info("new line added in git space to be added in E2E project master");
 	
 	}
 		
