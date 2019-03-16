@@ -61,7 +61,16 @@ public class HomePage extends Base {
 		log.info("test case is passed");
 		
 		log.info("new line added in git space to be added in E2E project master");
+		
+		System.out.println("branch code");
+		
+		
 	
+	}
+	@Test
+	public void testMethodForDevelopBranch(){
+		
+		System.out.println("new method added successfully");
 	}
 		
 		

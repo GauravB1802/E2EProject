@@ -24,7 +24,11 @@ public class ValidateText extends Base {
 		driver=initializeDriver();
 		log.info("Driver is initialized");
 	}
-	
+	@Test
+	public void testMethodForDevelopBranchInValidateTextClass(){
+		
+		System.out.println("new method added successfully");
+	}
 	
 	@Test
 	
